@@ -1,5 +1,5 @@
 # arch-dotfiles
-dotfiles and steps used to config Arch with yay the way I like
+dotfiles and steps used to configure Arch with yay the way I like.
 
 # yay packages I like to install
 - 1password: manage my passwords and logins
@@ -42,7 +42,7 @@ dotfiles and steps used to config Arch with yay the way I like
 # fisher packages I like to install
 - jethrokuan/z: Jumping into folders, with fish (there are also implementations for other shells)
 - jorgebucaran/nvm.fish: node version manager for fish!
-- franciscolourenco/done: getting notifications when long terminal tasks are done! (maybe a candidate for removal, still unsure)
+- franciscolourenco/done: getting notifications when long terminal tasks are done! - maybe a candidate for removal, still unsure
 - ilancosman/tide@v6: my favourite terminal prompt!
 - gazorby/fish-abbreviation-tips: to help me learn how to be more efficient
 - dracula/fish: my favourite theme, now for fish!
