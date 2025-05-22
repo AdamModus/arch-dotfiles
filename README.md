@@ -17,6 +17,7 @@ dotfiles and steps used to configure Arch with yay the way I like.
 - ghostty: probably my favourite terminal for Linux
 - gimp: amazing image editor that I still haven't learned to use
 - git: git!
+- kew: Music player in the terminal
 - kitty: another cool terminal (also comes by default with hyprland)
 - konsole: kde's default terminal
 - lolcat-rs: rainbow colors in the terminal, now in Rust!
