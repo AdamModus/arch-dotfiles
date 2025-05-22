@@ -1,7 +1,7 @@
 # arch-dotfiles
 dotfiles and steps used to config Arch with yay the way I like
 
-# Packages I like to install
+# yay packages I like to install
 - 1password: manage my passwords and logins
 - alacritty: a cool terminal that uses native GPU rendering
 - betterbird-bin: betterbird is a cool version of Thunderbird from Mozilla to manage emails and calendar stuff
@@ -39,7 +39,7 @@ dotfiles and steps used to config Arch with yay the way I like
 - zed: While I'm still not maining this, I want to. It's a very nice, very fast IDE.
 - zen-browser-bin: Zen is my favourite browser to use for personal stuff
 
-# Fisher packages I like to install
+# fisher packages I like to install
 - jethrokuan/z: Jumping into folders, with fish (there are also implementations for other shells)
 - jorgebucaran/nvm.fish: node version manager for fish!
 - franciscolourenco/done: getting notifications when long terminal tasks are done! (maybe a candidate for removal, still unsure)
