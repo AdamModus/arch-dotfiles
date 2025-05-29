@@ -39,9 +39,10 @@ dotfiles and steps used to configure Arch with yay the way I like.
 - zapzap: Favourite WhatsApp client on Linux (though installing a PWA is the only official client)
 - zed: While I'm still not maining this, I want to. It's a very nice, very fast IDE.
 - zen-browser-bin: Zen is my favourite browser to use for personal stuff
+- zoxide: A fast directory jumper
+
 
 # fisher packages I like to install
-- jethrokuan/z: Jumping into folders, with fish (there are also implementations for other shells)
 - jorgebucaran/nvm.fish: node version manager for fish!
 - franciscolourenco/done: getting notifications when long terminal tasks are done! - maybe a candidate for removal, still unsure
 - ilancosman/tide@v6: my favourite terminal prompt!
