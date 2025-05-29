@@ -14,6 +14,7 @@ dotfiles and steps used to configure Arch with yay the way I like.
 - firefox: browser
 - fish: my favourite shell
 - fisher: fish-specific package manager
+- fnm: Fast and simple Node.js version manager, built in Rust
 - ghostty: probably my favourite terminal for Linux
 - gimp: amazing image editor that I still haven't learned to use
 - git: git!
