@@ -44,7 +44,6 @@ dotfiles and steps used to configure Arch with yay the way I like.
 
 
 # fisher packages I like to install
-- jorgebucaran/nvm.fish: node version manager for fish!
 - franciscolourenco/done: getting notifications when long terminal tasks are done! - maybe a candidate for removal, still unsure
 - ilancosman/tide@v6: my favourite terminal prompt!
 - gazorby/fish-abbreviation-tips: to help me learn how to be more efficient
