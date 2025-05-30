@@ -20,7 +20,6 @@ dotfiles and steps used to configure Arch with yay the way I like.
 - git: git!
 - kew: Music player in the terminal
 - kitty: another cool terminal (also comes by default with hyprland)
-- konsole: kde's default terminal
 - lolcat-rs: rainbow colors in the terminal, now in Rust!
 - lsd: colored ls tool, makes reading ls results easier
 - nano: tiny command-line text editor
