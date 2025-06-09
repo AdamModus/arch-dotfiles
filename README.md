@@ -41,6 +41,49 @@ dotfiles and steps used to configure Arch with yay the way I like.
 - zen-browser-bin: Zen is my favourite browser to use for personal stuff
 - zoxide: A fast directory jumper
 
+  ```
+  yay -S \
+  1password \
+  alacritty \
+  betterbird-bin \
+  btop \
+  chromium \
+  cmatrix-git \
+  discord \
+  dolphin \
+  fastfetch \
+  firefox \
+  fish \
+  fisher \
+  fnm \
+  ghostty \
+  gimp \
+  git \
+  kew \
+  kitty \
+  lolcat-rs \
+  lsd \
+  nano \
+  networkmanager \
+  pipewire \
+  pokeget \
+  polybar \
+  pyenv \
+  qbittorrent \
+  slack-desktop \
+  spotify \
+  starship \
+  steam \
+  thefuck \
+  vim \
+  vlc \
+  zapzap \
+  zed \
+  zen-browser-bin \
+  zoxide
+
+  ```
+
 
 # fisher packages I like to install
 - franciscolourenco/done: getting notifications when long terminal tasks are done! - maybe a candidate for removal, still unsure
