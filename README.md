@@ -1,6 +1,11 @@
 # arch-dotfiles
 dotfiles and steps used to configure Arch with yay the way I like.
 
+# set fish as your shell
+```
+chsh -s /usr/bin/fish
+```
+
 # yay packages I like to install
 - 1password: manage my passwords and logins
 - alacritty: a cool terminal that uses native GPU rendering
@@ -64,7 +69,6 @@ dotfiles and steps used to configure Arch with yay the way I like.
   lolcat-rs \
   lsd \
   nano \
-  networkmanager \
   pipewire \
   pokeget \
   polybar \
